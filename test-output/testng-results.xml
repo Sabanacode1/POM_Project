@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-24T02:39:27 EST" name="Default suite" finished-at="2023-01-24T02:39:34 EST" duration-ms="6916">
+    <groups>
+    </groups>
+    <test started-at="2023-01-24T02:39:27 EST" name="Default test" finished-at="2023-01-24T02:39:34 EST" duration-ms="6916">
+      <class name="testScripts.ConfirmOrderTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testScripts.ConfirmOrderTest@54c5a2ff]" started-at="2023-01-24T02:39:27 EST" name="setUp" finished-at="2023-01-24T02:39:33 EST" duration-ms="5996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addItemToCartTest()[pri:0, instance:testScripts.ConfirmOrderTest@54c5a2ff]" started-at="2023-01-24T02:39:33 EST" name="addItemToCartTest" finished-at="2023-01-24T02:39:33 EST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemToCartTest -->
+        <test-method signature="searchItemTest()[pri:1, instance:testScripts.ConfirmOrderTest@54c5a2ff]" started-at="2023-01-24T02:39:33 EST" name="searchItemTest" finished-at="2023-01-24T02:39:34 EST" duration-ms="568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItemTest -->
+        <test-method signature="checkOutTest()[pri:2, instance:testScripts.ConfirmOrderTest@54c5a2ff]" started-at="2023-01-24T02:39:34 EST" name="checkOutTest" finished-at="2023-01-24T02:39:34 EST" duration-ms="261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkOutTest -->
+      </class> <!-- testScripts.ConfirmOrderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
